@@ -1,0 +1,30 @@
+
+div{
+    width: 200px;
+    height: 200px;
+
+}
+div p{
+    margin: 0;
+}
+.one{
+    background-color: red;
+    border:10px solid black;
+    padding: 20px;
+    
+}
+.two{
+    background-color: blue;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    margin-left: 260px;
+    
+}
+.three{
+    background-color: green;
+    border: 10px solid black; 
+    margin-left: 480px;
+    
+}
